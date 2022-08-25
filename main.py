@@ -23,5 +23,5 @@ def hello():
 
 
 Base.metadata.create_all(engine)
-inventory_model.Base.metadata.create_all(engine)
-users_model.Base.metadata.create_all(engine)
+#inventory_model.Base.metadata.create_all(engine)
+#users_model.Base.metadata.create_all(engine)
